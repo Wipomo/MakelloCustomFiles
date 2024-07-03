@@ -1,0 +1,24 @@
+[20-Apr-2020 04:59:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/monkey11/public_html/makello.com/master/solar-panel-installation/wp-includes/rss-functions.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/monkey11/public_html/makello.com/master/solar-panel-installation/wp-includes/rss-functions.php on line 9
+[20-Apr-2020 06:57:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/monkey11/public_html/makello.com/master/solar-panel-installation/wp-includes/rss-functions.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/monkey11/public_html/makello.com/master/solar-panel-installation/wp-includes/rss-functions.php on line 9
+[20-Apr-2020 12:58:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/monkey11/public_html/makello.com/master/solar-panel-installation/wp-includes/rss-functions.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/monkey11/public_html/makello.com/master/solar-panel-installation/wp-includes/rss-functions.php on line 9
+[20-Apr-2020 13:52:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/monkey11/public_html/makello.com/master/solar-panel-installation/wp-includes/rss-functions.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/monkey11/public_html/makello.com/master/solar-panel-installation/wp-includes/rss-functions.php on line 9
+[20-Apr-2020 19:02:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/monkey11/public_html/makello.com/master/solar-panel-installation/wp-includes/rss-functions.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/monkey11/public_html/makello.com/master/solar-panel-installation/wp-includes/rss-functions.php on line 9
+[20-Apr-2020 19:13:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/monkey11/public_html/makello.com/master/solar-panel-installation/wp-includes/rss-functions.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/monkey11/public_html/makello.com/master/solar-panel-installation/wp-includes/rss-functions.php on line 9

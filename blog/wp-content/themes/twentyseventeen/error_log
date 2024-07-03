@@ -1,0 +1,64 @@
+[17-Apr-2020 23:10:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/monkey11/public_html/makello.com/master/blog/wp-content/themes/twentyseventeen/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/monkey11/public_html/makello.com/master/blog/wp-content/themes/twentyseventeen/index.php on line 18
+[17-Apr-2020 23:11:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/monkey11/public_html/makello.com/master/blog/wp-content/themes/twentyseventeen/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/monkey11/public_html/makello.com/master/blog/wp-content/themes/twentyseventeen/index.php on line 18
+[19-Apr-2020 21:55:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/monkey11/public_html/makello.com/master/blog/wp-content/themes/twentyseventeen/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/monkey11/public_html/makello.com/master/blog/wp-content/themes/twentyseventeen/index.php on line 18
+[19-Apr-2020 22:00:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/monkey11/public_html/makello.com/master/blog/wp-content/themes/twentyseventeen/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/monkey11/public_html/makello.com/master/blog/wp-content/themes/twentyseventeen/index.php on line 18
+[19-Apr-2020 22:08:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/monkey11/public_html/makello.com/master/blog/wp-content/themes/twentyseventeen/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/monkey11/public_html/makello.com/master/blog/wp-content/themes/twentyseventeen/index.php on line 18
+[19-Apr-2020 22:20:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/monkey11/public_html/makello.com/master/blog/wp-content/themes/twentyseventeen/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/monkey11/public_html/makello.com/master/blog/wp-content/themes/twentyseventeen/index.php on line 18
+[20-Apr-2020 00:28:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/monkey11/public_html/makello.com/master/blog/wp-content/themes/twentyseventeen/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/monkey11/public_html/makello.com/master/blog/wp-content/themes/twentyseventeen/index.php on line 18
+[20-Apr-2020 00:52:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/monkey11/public_html/makello.com/master/blog/wp-content/themes/twentyseventeen/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/monkey11/public_html/makello.com/master/blog/wp-content/themes/twentyseventeen/index.php on line 18
+[20-Apr-2020 04:38:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/monkey11/public_html/makello.com/master/blog/wp-content/themes/twentyseventeen/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/monkey11/public_html/makello.com/master/blog/wp-content/themes/twentyseventeen/index.php on line 18
+[20-Apr-2020 04:51:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/monkey11/public_html/makello.com/master/blog/wp-content/themes/twentyseventeen/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/monkey11/public_html/makello.com/master/blog/wp-content/themes/twentyseventeen/index.php on line 18
+[20-Apr-2020 06:31:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/monkey11/public_html/makello.com/master/blog/wp-content/themes/twentyseventeen/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/monkey11/public_html/makello.com/master/blog/wp-content/themes/twentyseventeen/index.php on line 18
+[20-Apr-2020 07:29:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/monkey11/public_html/makello.com/master/blog/wp-content/themes/twentyseventeen/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/monkey11/public_html/makello.com/master/blog/wp-content/themes/twentyseventeen/index.php on line 18
+[20-Apr-2020 12:58:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/monkey11/public_html/makello.com/master/blog/wp-content/themes/twentyseventeen/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/monkey11/public_html/makello.com/master/blog/wp-content/themes/twentyseventeen/index.php on line 18
+[20-Apr-2020 13:52:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/monkey11/public_html/makello.com/master/blog/wp-content/themes/twentyseventeen/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/monkey11/public_html/makello.com/master/blog/wp-content/themes/twentyseventeen/index.php on line 18
+[20-Apr-2020 17:04:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/monkey11/public_html/makello.com/master/blog/wp-content/themes/twentyseventeen/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/monkey11/public_html/makello.com/master/blog/wp-content/themes/twentyseventeen/index.php on line 18
+[25-Aug-2022 07:17:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/monkey11/public_html/makello.com/master/blog/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/monkey11/public_html/makello.com/master/blog/wp-content/themes/twentyseventeen/404.php on line 13

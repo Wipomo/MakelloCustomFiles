@@ -1,0 +1,4 @@
+[25-Aug-2022 07:17:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/monkey11/public_html/makello.com/master/blog/wp-content/themes/twentytwenty/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/monkey11/public_html/makello.com/master/blog/wp-content/themes/twentytwenty/404.php on line 10

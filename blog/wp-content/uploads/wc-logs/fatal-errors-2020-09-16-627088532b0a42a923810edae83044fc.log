@@ -1,0 +1,4 @@
+2020-09-16T21:34:11+00:00 CRITICAL Allowed memory size of 41943040 bytes exhausted (tried to allocate 1970176 bytes) in /home/monkey11/public_html/makello.com/master/blog/wp-includes/class.wp-scripts.php on line 305
+
+2020-09-16T22:09:14+00:00 CRITICAL Allowed memory size of 41943040 bytes exhausted (tried to allocate 1445888 bytes) in /home/monkey11/public_html/makello.com/master/blog/wp-includes/script-loader.php on line 2226
+
